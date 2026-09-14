@@ -7,7 +7,7 @@ A Lightweight & Portable, dark-mode GUI wrapper for `upscayl-bin.exe`. Provides 
 
 ---
 ### ✨Features
-- **Small Footprint** Just ~80KB
+- **Small Footprint**: The GUI takes up just ~80 KB
 - **Portable INI Configuration**: Stores user settings locally in `upscayl-gui.ini`
 - **Dark Mode UI**: Custom HTML/CSS interface
 - **Modern Interface**: Modern design with rounded corners (Windows 11)
@@ -21,9 +21,10 @@ A Lightweight & Portable, dark-mode GUI wrapper for `upscayl-bin.exe`. Provides 
 [Download latest version here](https://github.com/amymor/upscayl-ncnn-GUI/releases/latest)
 
 ### ⬇️ Download Engine (`upscayl-bin.exe`)
+[Download latest version here](https://github.com/upscayl/upscayl-ncnn/releases/latest)
 
 ### ⬇️ Download Models (for ease of use, put them in the “Models” folder)
-[Download lightweight fast models here]()
+[Download lightweight fast models here](https://github.com/amymor/upscayl-ncnn-GUI/releases/download/1.0/models.zip)
 [Download Upscayl models here](https://github.com/upscayl/upscayl/tree/main/resources/models)
 [Want more models?](https://openmodeldb.info/)
 
