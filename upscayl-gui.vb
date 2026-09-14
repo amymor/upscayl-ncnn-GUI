@@ -1,12 +1,6 @@
 ' =============================================================================
 '  upscayl-gui.vb - dark-mode GUI wrapper for upscayl-bin.exe
-'  VB.NET 2012 / .NET Framework 4.x compatible, single source file.
-'  Borderless rounded window + HTML title bar (drag / minimize / close).
-'  Static (animation-free) UI for smooth window dragging.
-'  Native Vista IFileDialog folder picker (FOS_PICKFOLDERS).
-'
-'  DEPLOY: upscayl-gui.exe + upscayl-gui.html + upscayl-bin.exe (+ models folder)
-'          in the same directory.
+'  VB.NET 2012 / .NET Framework 4.x compatible
 ' =============================================================================
 
 Imports System
