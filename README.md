@@ -53,11 +53,6 @@ width=
 tta=0
 verbose=0
 ```
-
-Paths inside the exe folder are stored relatively; external paths remain absolute.
-
-
-- **upscayl-gui.html**: HTML/CSS UI frontend
-- **upscayl-bin.exe**: NCNN-based upscaling engine
-- **upscayl-ncnn**: Main C/C++ backend repository
+> [!NOTE]  
+> Paths inside the exe folder are stored relatively; external paths remain absolute.
 
